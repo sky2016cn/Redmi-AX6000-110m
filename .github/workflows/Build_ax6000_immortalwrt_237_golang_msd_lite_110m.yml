@@ -302,5 +302,5 @@ jobs:
     - name: Upload artifact
       uses: actions/upload-artifact@v7
       with:
-        name: ax6000_immortalwrt_237_110m
+        name: Build_ax6000_immortalwrt_237_golang_msd_lite_110m
         path: /builder/openwrt/bin
